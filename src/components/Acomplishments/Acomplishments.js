@@ -11,17 +11,17 @@ const data = [
 ];
 
 const Acomplishments = () => (
-  <Section>
-    <SectionTitle>Person Acomplishments</SectionTitle>
-    <Boxes>
-      {data.map((card, index) => {
-        <Box key={index}>
-          <BoxNum>{card.number}+</BoxNum>
-          <BoxText>{card.text}</BoxText>
-        </Box>
-      })}
-    </Boxes>
-  </Section>
+    <Section>
+      <SectionTitle>Person Acomplishments</SectionTitle>
+      <Boxes>
+        {data.map((card, index) => (
+          <Box key={index}>
+            <BoxNum>{card.number}+</BoxNum>
+            <BoxText>{card.text}</BoxText>
+          </Box>
+        ))}
+      </Boxes>
+    </Section>
 );
 
 export default Acomplishments;
