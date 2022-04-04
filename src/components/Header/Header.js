@@ -30,9 +30,6 @@ const Header = () =>  (
           <NavLink>About</NavLink>
         </Link>
       </li>
-      <li>
-        <NavLink><a href='https://drive.google.com/file/d/1QSgkPIBy2wt2KzNjUco3RE_SHEPFkRRo/view?usp=sharing' target='_blank'>Resume</a></NavLink>
-      </li>
     </Div2>
     <Div3>
       <SocialIcons href="https://github.com/nguyen-william93/" target='_blank'>

@@ -8,10 +8,10 @@ const Hero = (props) => (
   <Section row nopadding>
     <LeftSection>
       <SectionTitle main center>
-        Nice to meet you.
+        Welcome to my porfolio,
       </SectionTitle>
       <SectionText>
-        Realize your dream one website at a time.
+        Where dreams are realize one website at a time.
       </SectionText>
       <Button onClick={() => window.open("https://drive.google.com/file/d/1QSgkPIBy2wt2KzNjUco3RE_SHEPFkRRo/view?usp=sharing", "_blank")}>Resume</Button>
     </LeftSection>
