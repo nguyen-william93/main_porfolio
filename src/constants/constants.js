@@ -12,7 +12,7 @@ export const projects = [
     title: 'Stock Option Tracker',
     description:"The App utilized serval API to search for stock sticker option contracts being actively trade, as well as any recent news about the stock sticker. NOTE: App is hostest on a heroku, please allow up to 30s for app to load.",
     image: '/images/stock-option.png',
-    tags: ['React', 'Node', 'ReactBootstrap'],
+    tags: ['React', 'Node', 'ReactBootstrap', 'Chart.js'],
     source: 'https://github.com/nguyen-william93/stock-api',
     visit: 'https://mighty-fjord-39925.herokuapp.com/optionChain',
     id: 1,
