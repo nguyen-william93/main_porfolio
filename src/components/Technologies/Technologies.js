@@ -18,7 +18,12 @@ const Technologies = () =>  (
             <ListTitle>Front-End</ListTitle>
             <ListParagraph>
               Exprience with <br />
-              React.js
+              React.js <br />
+              HTML <br />
+              CSS <br />
+              Bootstrap <br />
+              JavaScript <br />
+              jQuery 
             </ListParagraph>
           </ListContainer>
         </ListItem>
@@ -28,17 +33,24 @@ const Technologies = () =>  (
             <ListTitle>Back-End</ListTitle>
             <ListParagraph>
               Exprience with <br />
-              Node and Database
+              Node.js <br />
+              MongoDB <br />
+              SQL <br />
+              NoSQL <br />
+              GraphQL <br />
+              Express.js <br />
             </ListParagraph>
           </ListContainer>
         </ListItem>        
         <ListItem>
           <DiZend size="3rem" />
           <ListContainer>
-            <ListTitle>UI/UX</ListTitle>
+            <ListTitle>Other</ListTitle>
             <ListParagraph>
               Exprience with <br />
-              Tools like figma
+              Bulma <br />
+              Git <br />
+              Github <br />
             </ListParagraph>
           </ListContainer>
         </ListItem>

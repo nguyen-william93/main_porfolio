@@ -9,26 +9,19 @@ const Footer = () => {
     <FooterWrapper>
       <LinkList>
         <LinkColumn>
-          <LinkTitle>Call</LinkTitle>
-          <LinkItem href="tel:111-111-1111">111-111-1111</LinkItem>
-        </LinkColumn>
-        <LinkColumn>
           <LinkTitle>Email</LinkTitle>
-          <LinkItem href="mailto:nguyen.william93@gmail.com">nguyen.william93@gmail.com</LinkItem>
+          <LinkItem href="mailto:william.nguyen@william-dev.com">william.nguyen@william-dev.com</LinkItem>
         </LinkColumn>
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
           <Slogan>Innovating one project at a time</Slogan>
         </CompanyContainer>
-        <SocialIcons href="https://github.com">
+        <SocialIcons href="https://github.com/nguyen-william93/">
         <AiFillGithub size="3rem" />
         </SocialIcons>
-        <SocialIcons href="https://linkedin.com">
+        <SocialIcons href="https://www.linkedin.com/in/william-nguyen-095435225/">
           <AiFillLinkedin size="3rem" />
-        </SocialIcons>
-        <SocialIcons href="https://instagram.com">
-          <AiFillInstagram size="3rem" />
         </SocialIcons>
       </SocialIconsContainer>
     </FooterWrapper>
