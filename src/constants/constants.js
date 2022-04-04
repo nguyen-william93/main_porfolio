@@ -21,7 +21,7 @@ export const projects = [
     title: 'Tic-Tac-Toe',
     description: "A beautiful version of Tic-Tac-Toe that you can play with your friend.",
       image: '/images/tictactoe.png',
-      tags: ['React', 'WebRTC'],
+      tags: ['HTML', "CSS", "Javascript"],
     source: 'https://github.com/nguyen-william93/Tic-Tac-Toe',
     visit: 'https://nguyen-william93.github.io/Tic-Tac-Toe/',
     id: 2,
